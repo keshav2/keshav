@@ -1,3 +1,4 @@
+#pal
 n=int(input())
 temp=n
 rev=0
